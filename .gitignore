@@ -1,0 +1,5 @@
+.vscode
+.idea
+venv
+deployvenv
+deploy_lambda_prod.yaml
